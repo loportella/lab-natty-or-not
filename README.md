@@ -4,7 +4,8 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Foi solicitado no curso "CAIXA - IA Generativa com Microsoft Copilot" da plataforma DIO, para criar exemplos ou melhor conteúdos usando as IAs generativas disponíveis no mercado.
+
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,32 +21,48 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# criando conteúdo com IA para concurso astronomico
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Com base em um concurso de artes iniciado pelo planetário da universidade UNIPAMPA campos Bagé em comemoração aos 100 anos dos planetários, onde continha a seguinte descrição:
+ A Unipampa convida artistas e apaixonados pela astronomia para a 1ª Mostra AstroArte! 
+Inspirada no tema "100 anos dos Planetários: as estrelas foram apenas o começo", esta mostra celebra o centenário dos planetários, incentivando a criação artística sobre o universo e nossa conexão com ele.
+
+Categorias: 
+Fotografia: Fotografias que incluam o Planetário da Unipampa acompanhado de um astro visível, como a Lua, uma constelação ou o pôr do sol. A qualidade das fotos deve ser compatível com impressão.
+
+Desenho (lápis e aquarela): Ilustrações que expressem a temática astronômica e o Universo, como uma cena celeste, planetas, constelações ou composição com o próprio planetário. Caso selecionada, a obra deverá ser entregue fisicamente no Planetário da Unipampa para a exposição.
+
+Pintura (em tela): Obras inspiradas nos mistérios do cosmos, representando temas astronômicos em tela ou  composição com o próprio planetário da UNIPAMPA de Bagé. 
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, Google Gemini, Dall-E 3, speechify, VEED, gravador e editor de video do Windwos.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o ChatGPT gerar 5 poemas, com o estilo de escrita de 5 autores de livros gauchos (nascidos no Rio Grande do Sul, Brasil) diferentes.
+o Google Gemini foi usado para gerar imagens com o tema indicado e no estilo de pintores renovamods gauchos (Leopoldo Gotuzzo,Ado Malagoli,Aldo Locatelli). Algumas imagens geradas pelo Dall-E 3 também foram testadas.
+ Usando o Speechify foi adicionado locução e avatar aos textos.
+O VEED foi um editor online usado para criar legendas automáticas e editar o video, mesclando as imagens e o video criado com o Speechify.
+
+Prompts de exemplo:
+gere uma poesia para no estilo de cada autor informado anteriormente. 
+
+	gere uma imagem com o estilo do pintor brasileiro Leopoldo Gotuzzo
+ utilizando um dos temas e como peça principal o planetário da UNIPAMPA campus Bagé: tema 1 - mistérios do cosmos; tema 2- representando temas astronômicos.
+cite em texto qual tema escolheu e o nome do pintor.
+
+	gere uma imagem com o estilo de algum pintor brasileiro, utilizando o planetário da universidade UNIPMAPA de Bagé, pessoas admirando e tema mistérios do cosmos.
+cite em texto qual tema escolheu e o nome do pintor.
+
+		gere uma fotografia com, utilizando o planetário da universidade UNIPMAPA de Bagé, composto com o por do sol e cores suaves.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+No fim foi criado um video simples, onde são recitados os poemas e as imagens geradas são mostradas ao fundo.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Todas as ferramentas foram usadas no modo gratis oque afeta muito a qualidade, porém deu para ter uma boa ídeia do quão bom pode ser as IAs na geração de conteúdo.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
